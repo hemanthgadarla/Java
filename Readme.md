@@ -18,3 +18,7 @@ Create three new types of exceptions. Write a class with a method that throws al
 I/O(Java_Assignment_11)
 
 Using TextFile and a Map<Character,Integer>, create a program that takes the file name as a command line argument and counts the occurrence of all the different characters. Save the results in a text file.
+
+
+(java_Assignment_9)
+Using the documentation for java.util.regex.Pattern as a resource, write and test a regular expression that checks a sentence to see that it begins with a capital letter and ends with a period.
