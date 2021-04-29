@@ -10,3 +10,6 @@ Write a java function that checks if the input string contains all the letters o
 Ping_Median
 Write a java function that will ping any host ( given as input ) and computes the median of the time taken to ping.
 Use the system ping utility, do not use any deprecated methods.
+
+Error Handling(Java_Assignment_8)
+Create three new types of exceptions. Write a class with a method that throws all three. In main( ), call the method but only use a single catch clause that will catch all three types of exceptions. Add a finally clause and verify that your finally clause is executed, even if a NullPointerException is thrown.
